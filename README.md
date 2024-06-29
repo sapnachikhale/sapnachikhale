@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-<!--
-**sapnachikhale/sapnachikhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate developer with the ability to write efficient code using MERN
+stack with a flair of creating elegant solutions in the least amount of time.
+Built an e-commerce webapp, and excited about building interactive and
+useful websites. Looking forward to learning a lot and applying my skills at a
+challenging workplace.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
