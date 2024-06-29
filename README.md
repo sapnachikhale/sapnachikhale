@@ -1,7 +1,7 @@
 <img src="https://github.com/sapnachikhale/sapnachikhale/assets/155234585/cc2a81e2-9bf3-4272-ac00-0a90c8a7ffea" width="1500" height="400" alt="Career As A Software Developer">
 
 <h1 align="center">Hi 👋, I'm Sapna Chikhale</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Passionate Software Developer with the ability to write efficient code with a flair of creating elegant solutions in the least amount of time.Built an e-commerce webapp, and excited about building interactive and useful websites. Looking forward to learning a lot and applying my skills at a challenging workplace.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapnachikhale&label=Profile%20views&color=0e75b6&style=flat" alt="sapnachikhale" /> </p>
 <img src="https://github.com/sapnachikhale/sapnachikhale/assets/155234585/b032c294-4ded-4c93-9939-caef532627ed" align="right"/>
