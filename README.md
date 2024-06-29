@@ -1,9 +1,9 @@
-<img src="https://images.app.goo.gl/MUE9jF1SebjFAVKf7">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmrwallpaper.com%2Fimages%2Fhd%2Finnovative-software-engineering-in-hd-sxxkamob2unmuf2l.jpg&tbnid=T9akyMs7vweeIM&vet=1&imgrefurl=https%3A%2F%2Fmrwallpaper.com%2Fwallpapers%2Finnovative-software-engineering-in-hd-sxxkamob2unmuf2l.html&docid=MEBwiVl3b2p31M&w=1920&h=1080&hl=en-IN&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=5ece4ce1c2b67642&shem=abme%2Ctrie"/>
 <h1 align="center">Hi 👋, I'm Sapna Chikhale</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&psig=AOvVaw1Wc66psuf4bPsrCiVeY4bJ&ust=1719726892895000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCND1w5yQgIcDFQAAAAAdAAAAABAE](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmrwallpaper.com%2Fimages%2Fhd%2Finnovative-software-engineering-in-hd-sxxkamob2unmuf2l.jpg&tbnid=T9akyMs7vweeIM&vet=1&imgrefurl=https%3A%2F%2Fmrwallpaper.com%2Fwallpapers%2Finnovative-software-engineering-in-hd-sxxkamob2unmuf2l.html&docid=MEBwiVl3b2p31M&w=1920&h=1080&hl=en-IN&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=5ece4ce1c2b67642&shem=abme%2Ctrie)" align="right" width="400px">
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&psig=AOvVaw1Wc66psuf4bPsrCiVeY4bJ&ust=1719726892895000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCND1w5yQgIcDFQAAAAAdAAAAABAE](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmrwallpaper.com%2Fimages%2Fhd%2Finnovative-software-engineering-in-hd-sxxkamob2unmuf2l.jpg&tbnid=T9akyMs7vweeIM&vet=1&imgrefurl=https%3A%2F%2Fmrwallpaper.com%2Fwallpapers%2Finnovative-software-engineering-in-hd-sxxkamob2unmuf2l.html&docid=MEBwiVl3b2p31M&w=1920&h=1080&hl=en-IN&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=5ece4ce1c2b67642&shem=abme%2Ctrie)" align="right" width="400px"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapnachikhale&label=Profile%20views&color=0e75b6&style=flat" alt="sapnachikhale" > </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapnachikhale&label=Profile%20views&color=0e75b6&style=flat" alt="sapnachikhale" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" ></a> </p>
 
