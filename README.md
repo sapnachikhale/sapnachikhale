@@ -1,6 +1,5 @@
 
-
-![backgrond](https://github.com/user-attachments/assets/f68a536e-1d11-45be-ae2c-d56feb4810aa)
+<img src="https://github.com/user-attachments/assets/f68a536e-1d11-45be-ae2c-d56feb4810aa" width="1500" height="400" alt="background">
 
 <h1 align="center">Hi 👋, I'm Sapna Chikhale</h1>
 <h3 align="center">Passionate Software Developer with the ability to write efficient code with a flair of creating elegant solutions in the least amount of time.Built an e-commerce webapp, and excited about building interactive and useful websites. Looking forward to learning a lot and applying my skills at a challenging workplace.</h3>
